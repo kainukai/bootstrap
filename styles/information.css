@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+
+.container{
+    display: flex;
+    float: left;
+}
+
+#info{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+#article{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    
+}
+
+.dreamcast{
+    float: right;
+    text-align: center;
+    
+}
+
+.accordion-item{
+    width: 450%;
+    
+}
